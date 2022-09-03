@@ -9,4 +9,4 @@ jobs:
       - name: Instala dependências
         run: npm install
       - name: Roda ESlint
-        run: npm run lint
+        run: npm run lint,
